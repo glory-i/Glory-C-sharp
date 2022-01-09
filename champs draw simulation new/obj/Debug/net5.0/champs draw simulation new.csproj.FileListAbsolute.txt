@@ -1,0 +1,16 @@
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\bin\Debug\net5.0\champs draw simulation new.exe
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\bin\Debug\net5.0\champs draw simulation new.deps.json
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\bin\Debug\net5.0\champs draw simulation new.runtimeconfig.json
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\bin\Debug\net5.0\champs draw simulation new.runtimeconfig.dev.json
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\bin\Debug\net5.0\champs draw simulation new.dll
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\bin\Debug\net5.0\ref\champs draw simulation new.dll
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\bin\Debug\net5.0\champs draw simulation new.pdb
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\obj\Debug\net5.0\champs draw simulation new.csproj.AssemblyReference.cache
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\obj\Debug\net5.0\champs draw simulation new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\obj\Debug\net5.0\champs draw simulation new.AssemblyInfoInputs.cache
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\obj\Debug\net5.0\champs draw simulation new.AssemblyInfo.cs
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\obj\Debug\net5.0\champs draw simulation new.csproj.CoreCompileInputs.cache
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\obj\Debug\net5.0\champs draw simulation new.dll
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\obj\Debug\net5.0\ref\champs draw simulation new.dll
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\obj\Debug\net5.0\champs draw simulation new.pdb
+C:\Users\gloryiweriebor\Documents\GitHub\Glory-C-\champs draw simulation new\obj\Debug\net5.0\champs draw simulation new.genruntimeconfig.cache

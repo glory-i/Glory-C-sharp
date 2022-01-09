@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "champs draw simulation new/1.0.0": {
+        "runtime": {
+          "champs draw simulation new.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "champs draw simulation new/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
